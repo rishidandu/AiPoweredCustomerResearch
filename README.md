@@ -3,6 +3,9 @@
 ## Overview
 This project provides an end-to-end pipeline for qualitative thematic analysis of interview data, with a modern LLM-powered backend and an interactive Streamlit dashboard frontend. It is designed for analyzing responses to open-ended questions (e.g., from Excel files), extracting themes, and presenting results in a user-friendly way.
 
+## Look at APPROACH_AND_DESIGN.md for a deepdive
+
+If you have questions or need help, open an issue or contact the project maintainer. 
 ---
 
 ## Directory Structure
