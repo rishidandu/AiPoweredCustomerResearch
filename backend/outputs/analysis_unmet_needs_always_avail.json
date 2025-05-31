@@ -1,0 +1,101 @@
+{
+  "headline": "Thematic Analysis of Consumer Experiences with VPN Services",
+  "summary": "This analysis explores consumer experiences and expectations regarding VPN services, focusing on unmet needs related to accessibility and reliability.",
+  "themes": [
+    {
+      "title": "Reliability Expectations",
+      "description": "Participants express a strong desire for VPN services that consistently perform well without interruptions.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4435",
+          "quote": "I would love it."
+        },
+        {
+          "participant_id": "P4450",
+          "quote": "That would be good."
+        },
+        {
+          "participant_id": "P4480",
+          "quote": "I would be curious to learn more about it."
+        }
+      ]
+    },
+    {
+      "title": "Frustration with Current Limitations",
+      "description": "Participants share frustrations regarding their current VPN services, particularly related to accessibility and connection issues.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4449",
+          "quote": "When adjustments made still not totally secure."
+        },
+        {
+          "participant_id": "P4559",
+          "quote": "I can't access Home Depot in my hometown U.S. from Panama."
+        },
+        {
+          "participant_id": "P4735",
+          "quote": "Sometimes need to restart computer to be able to access it."
+        }
+      ]
+    },
+    {
+      "title": "Interest in Alternatives",
+      "description": "Participants show a willingness to explore alternative VPN services that promise better performance and reliability.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4458",
+          "quote": "I would want to know what the price is."
+        },
+        {
+          "participant_id": "P4483",
+          "quote": "I would like to try that service out."
+        },
+        {
+          "participant_id": "P4801",
+          "quote": "I would look into it."
+        }
+      ]
+    },
+    {
+      "title": "Satisfaction with Current Services",
+      "description": "Despite some frustrations, many participants express overall satisfaction with their current VPN solutions.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4461",
+          "quote": "No, no disappointment."
+        },
+        {
+          "participant_id": "P4811",
+          "quote": "Good I would not have problem."
+        },
+        {
+          "participant_id": "P4840",
+          "quote": "No."
+        }
+      ]
+    },
+    {
+      "title": "Concerns about Pricing",
+      "description": "Participants frequently mention pricing as a significant factor influencing their decisions regarding VPN services.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4467",
+          "quote": "Since I've not had any issues with Bitdefender, I think the cost of this service would be my primary concern."
+        },
+        {
+          "participant_id": "P4728",
+          "quote": "I would ask what the price is."
+        },
+        {
+          "participant_id": "P4825",
+          "quote": "If I see that it\u2019s at a cheap price, I might look into it."
+        }
+      ]
+    }
+  ]
+}

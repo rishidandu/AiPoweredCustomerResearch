@@ -1,0 +1,101 @@
+{
+  "headline": "Thematic Analysis of Consumer Preferences in VPN Selection",
+  "summary": "This analysis explores key themes derived from consumer feedback regarding the selection of VPN services, highlighting essential features and capabilities that influence their choices.",
+  "themes": [
+    {
+      "title": "Privacy and Security",
+      "description": "Participants prioritize features that enhance their online privacy and security, including data encryption and identity protection.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4435",
+          "quote": "No logs policy and multiple servers across multiple locations."
+        },
+        {
+          "participant_id": "P4451",
+          "quote": "To make sure my private connection is safe and also not to be tracked online."
+        },
+        {
+          "participant_id": "P4811",
+          "quote": "Needs to protect my identity and IP address so that bad actors cannot access critical information from my phone or computer."
+        }
+      ]
+    },
+    {
+      "title": "Performance and Reliability",
+      "description": "Consumers emphasize the importance of speed, reliability, and server availability in their VPN selection process.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4490",
+          "quote": "I look at speed and availability of locations."
+        },
+        {
+          "participant_id": "P4741",
+          "quote": "I consider the speed of the vpn and the locations available to me."
+        },
+        {
+          "participant_id": "P4829",
+          "quote": "Fast speeds and a reliable connection are the two most important features I look for when choosing a VPN."
+        }
+      ]
+    },
+    {
+      "title": "Cost and Value",
+      "description": "Participants express a strong focus on the cost of VPN services, seeking affordable options that provide good value for the features offered.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4505",
+          "quote": "The price and the security benefits offered."
+        },
+        {
+          "participant_id": "P4808",
+          "quote": "I want it to be good I want it to protect my internet and I want I don't want all my data just out there."
+        },
+        {
+          "participant_id": "P4810",
+          "quote": "Speed and ease of use, price."
+        }
+      ]
+    },
+    {
+      "title": "User Experience and Support",
+      "description": "Ease of use and customer support are highlighted as critical factors in the decision-making process for selecting a VPN.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4725",
+          "quote": "I want to know that my personal info is safe."
+        },
+        {
+          "participant_id": "P4790",
+          "quote": "User-friendly interface and features."
+        },
+        {
+          "participant_id": "P4801",
+          "quote": "If the VPN is compatible with your devices and operating systems, and if it allows simultaneous connections."
+        }
+      ]
+    },
+    {
+      "title": "Access to Content",
+      "description": "Participants value the ability to access geographically restricted content and services as a significant reason for using VPNs.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4748",
+          "quote": "Accessing region restricted content."
+        },
+        {
+          "participant_id": "P4812",
+          "quote": "Geo unlocking, Free plan, protect data."
+        },
+        {
+          "participant_id": "P4559",
+          "quote": "Able to access my local media while out of the country as I travel."
+        }
+      ]
+    }
+  ]
+}
