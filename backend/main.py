@@ -83,6 +83,9 @@ JSON schema:
     "participant_count": int,
     "quotes": [{{{{"participant_id": str, "quote": str}}}}]
     }}}}
+  ],
+"classifications": [
+    {{{{"participant_id": str, "response": str, "assigned_themes": [str, ...]}}}}]
   ]
 }}}}
 
@@ -91,7 +94,10 @@ Participants: {{num_participants}}
 Responses:
 {{responses}}
 
-Respond **only** with valid JSON — no commentary.
+After generating the themes, assign every response to the most appropriate theme(s) from above. Output a JSON array under the key "classifications" with:
+[
+  {{{{"participant_id": "...", "response": "...", "assigned_themes": ["Theme Title 1", ...]}}}}]
+Every response must be assigned to at least one theme. Respond **only** with valid JSON — no commentary.
 """
     return PromptTemplate(
         input_variables=["project_background", "question_text", "num_participants", "responses"],
@@ -116,6 +122,21 @@ def validate_analysis(question: str, analysis: Dict[str, Any]):
 
 
 def save_classification_sheet(question: str, analysis: Dict[str, Any]):
+    # If the new full-labeling output is present, use it
+    if "classifications" in analysis:
+        rows = []
+        for entry in analysis["classifications"]:
+            rows.append({
+                "question": question,
+                "participant_id": entry["participant_id"],
+                "response": entry["response"],
+                "assigned_themes": ", ".join(entry["assigned_themes"])
+            })
+        if rows:
+            df = pd.DataFrame(rows)
+            df.to_excel(settings.out_dir / f"classifications_{question}.xlsx", index=False)
+        return
+    # Fallback: old logic for representative quotes only
     rows = []
     for theme in analysis.get("themes", []):
         for q in theme.get("quotes", []):

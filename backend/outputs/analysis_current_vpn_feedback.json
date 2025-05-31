@@ -1,0 +1,810 @@
+{
+  "headline": "Thematic Analysis of Consumer Feedback on VPN Features",
+  "summary": "This analysis explores consumer feedback regarding desired features in VPN services, highlighting key themes around satisfaction, performance, and security needs.",
+  "themes": [
+    {
+      "title": "Satisfaction with Current Features",
+      "description": "Many participants express contentment with their current VPN services, indicating no additional features are needed.",
+      "participant_count": 45,
+      "quotes": [
+        {
+          "participant_id": "P4434",
+          "quote": "No"
+        },
+        {
+          "participant_id": "P4444",
+          "quote": "No, not at all"
+        },
+        {
+          "participant_id": "P4477",
+          "quote": "None that I can think of at this moment"
+        }
+      ]
+    },
+    {
+      "title": "Desire for Enhanced Security",
+      "description": "Participants express a need for improved security features to protect against hacking and data breaches.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4801",
+          "quote": "Just added security of no hacking since that\u2019s becoming part of the 'norm' nowadays"
+        },
+        {
+          "participant_id": "P4825",
+          "quote": "protects privacy from hackers on the internet to help you stay safe"
+        },
+        {
+          "participant_id": "P4728",
+          "quote": "Access to more secured servers"
+        }
+      ]
+    },
+    {
+      "title": "Performance Improvements Requested",
+      "description": "Some participants highlight the need for better performance, including faster speeds and more server locations.",
+      "participant_count": 15,
+      "quotes": [
+        {
+          "participant_id": "P4450",
+          "quote": "Speeding up server time better"
+        },
+        {
+          "participant_id": "P4550",
+          "quote": "More bandwidth, more server locations"
+        },
+        {
+          "participant_id": "P4804",
+          "quote": "faster service"
+        }
+      ]
+    },
+    {
+      "title": "Interest in Additional Features",
+      "description": "A subset of participants expresses interest in additional features that could enhance their VPN experience.",
+      "participant_count": 8,
+      "quotes": [
+        {
+          "participant_id": "P4491",
+          "quote": "I wish they kind of assigned you a personal rep."
+        },
+        {
+          "participant_id": "P4812",
+          "quote": "Perhaps cheaper rates, faster and more reliable service, and even more accessibility to media outside my area"
+        },
+        {
+          "participant_id": "P4735",
+          "quote": "The ability to use it seamlessly on my phone."
+        }
+      ]
+    },
+    {
+      "title": "Uncertainty About Needs",
+      "description": "Several participants are unsure about what additional features they might want, indicating a lack of awareness of potential improvements.",
+      "participant_count": 28,
+      "quotes": [
+        {
+          "participant_id": "P4446",
+          "quote": "Not sure"
+        },
+        {
+          "participant_id": "P4505",
+          "quote": "i cant think of any"
+        },
+        {
+          "participant_id": "P4725",
+          "quote": "None that come to mind."
+        }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "participant_id": "P4434",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4435",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4444",
+      "response": "No, not at all",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4446",
+      "response": "Not sure",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4449",
+      "response": "Just more secure",
+      "assigned_themes": [
+        "Desire for Enhanced Security"
+      ]
+    },
+    {
+      "participant_id": "P4450",
+      "response": "Speeding up server time better",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4451",
+      "response": "None that I know of.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4453",
+      "response": "I wish it offered more options in terms of countries I could connect to.",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4457",
+      "response": "no there isn't",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4458",
+      "response": "Working for every website without limitation.",
+      "assigned_themes": [
+        "Desire for Enhanced Security"
+      ]
+    },
+    {
+      "participant_id": "P4459",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4460",
+      "response": "Not applicable",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4461",
+      "response": "No. Nothing I can think of",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4466",
+      "response": "No, I cannot think of any I wish Bitdefender's VPN had.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4467",
+      "response": "No, have everything I need.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4468",
+      "response": "I can\u2019t think of anything",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4470",
+      "response": "no suggestions",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4471",
+      "response": "I can't think of anything.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4473",
+      "response": "speed!",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4475",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4477",
+      "response": "None that I can think of at this moment",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4479",
+      "response": "Multiple locations with very fast connections. I need options that are equally viable",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4480",
+      "response": "i can't really say that there's anything that i'm looking for if something comes to mind would be more than happy to let you know but at this present time no there's not anything else that i'm looking for for my vpn server to do for me",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4481",
+      "response": "I think it is positive and affordable at this way, maybe I could try another features to improve performance.",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4483",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4484",
+      "response": "Not that I can think of",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4485",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4489",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4490",
+      "response": "Not sure",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4491",
+      "response": "I wish they. Kind of assigned you a personal rep.So that you can develop some sort of relationship with them",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4496",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4505",
+      "response": "are there any specific capabilities or features that you wish your current VPN service provider offered but it doesn't at present?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4510",
+      "response": "CAN'T THINK OF ANY.",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4513",
+      "response": "As from now I don't know exactly but I recommend them to keep upgrading their services",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4514",
+      "response": "NA",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4516",
+      "response": "I can't think of any",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4519",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4520",
+      "response": "Nothing comes to mind",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4524",
+      "response": "No it\u2019s what i expected.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4525",
+      "response": "N/A",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4528",
+      "response": "higher speeds",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4531",
+      "response": "I really haven\u2019t thought about it",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4532",
+      "response": "Nothing comes to mind. The service meets my expectations.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4535",
+      "response": "VPN for me to use on my phone.",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4543",
+      "response": "Not that I can think of right now.",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4547",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4549",
+      "response": "There are not any capabilities/features that I wish my current VPN service provider offered that it doesn't today.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4550",
+      "response": "More bandwidth, more server locations",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4553",
+      "response": "None that I can think of.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4555",
+      "response": "Not really.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4559",
+      "response": "No additional features that I feel are needed with my employers VPN service.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4561",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4566",
+      "response": "Nothing I can think of right now",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4570",
+      "response": "It\u2019s the capabilities I don\u2019t know about that interests me if that makes sense",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4573",
+      "response": "I am satisfied with Norton capabilities",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4709",
+      "response": "Showing an estimated live location of the IP I'm using",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4711",
+      "response": "The service could be bundled with more cybersecurity features. They could feature lower prices as well.",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4724",
+      "response": "I don\u2019t want anything too complicated but it would be nice to have some way to know if my connection or security has been compromised",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4725",
+      "response": "None that come to mind.",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4728",
+      "response": "Access to more secured servers",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4732",
+      "response": "The ability to use it seamlessly on my phone. it is pretty cumbersome t use on my phone currently.",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4736",
+      "response": "unreliable performance",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4739",
+      "response": "None",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4741",
+      "response": "Not that I know of",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4742",
+      "response": "That's insightful! Given this background, are there any capabilities or features that you wish your current VPN service provider, Windscribe, offered but it doesn\u2019t today?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4746",
+      "response": "Not that I can think of",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4748",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4749",
+      "response": "Not that I can think of",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4750",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4751",
+      "response": "Not yet",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4754",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4756",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4760",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4763",
+      "response": "It has all features",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4765",
+      "response": "I don't think of any",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4775",
+      "response": "You mentioned seeing a benefit in a flawless digital privacy and security solution. In line with that, are there any capabilities or features that you wish your current VPN service provider offered that it doesn\u2019t offer today?",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4781",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4790",
+      "response": "none",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4801",
+      "response": "never wish for any other features",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4804",
+      "response": "faster service",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4805",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4807",
+      "response": "No",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4808",
+      "response": "it is a bit slow and like i mentioned earlier it is very lacking in servers in other countries so those two it increased the speed a it but like i also said the speed isn't the most important thing i am willing to give up speed for quality you know in safety and you know so it its speed is important but it's also lower on my list of and things i want but definitely wanting more servers that something i would like",
+      "assigned_themes": [
+        "Performance Improvements Requested"
+      ]
+    },
+    {
+      "participant_id": "P4809",
+      "response": "More robust and easy to use features on other devices",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4810",
+      "response": "No every thing is good",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4811",
+      "response": "Personal Wifi.",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4812",
+      "response": "Perhaps cheaper rates, faster and more reliable service, and even more accessibility to media outside my area",
+      "assigned_themes": [
+        "Interest in Additional Features"
+      ]
+    },
+    {
+      "participant_id": "P4813",
+      "response": "There aren\u2019t really more capabilities that I can think of to be honest. All of these is the one that I want.",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4814",
+      "response": "Are there any capabilities or features that you wish your current VPN service, Express VPN, offered that it doesn\u2019t today?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4816",
+      "response": "I think I have all the tools that I need from NordVPN and Opera GX",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4818",
+      "response": "that's very positive to hear. Now, is there anything particular that you wish your current VPN, Avast, offered that it does not offer today?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4820",
+      "response": "no",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4822",
+      "response": "No that I can think off at the moment",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4824",
+      "response": "No, I can\u2019t think of anything.",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4825",
+      "response": "protects privacy from hackers on the internet to help you stay safe",
+      "assigned_themes": [
+        "Desire for Enhanced Security"
+      ]
+    },
+    {
+      "participant_id": "P4826",
+      "response": "Before we continue, I wanted to ask if there are any capabilities or features that you wish your current VPN service provider, Nord VPN, offered but it doesn\u2019t today?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4829",
+      "response": "not necessarily no",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4830",
+      "response": "No, I\u2019m pretty content on what features it has right now currently",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    },
+    {
+      "participant_id": "P4832",
+      "response": "That's encouraging to hear. Switching gears a bit, are there any capabilities or features that you wish your current VPN service provider, Turbo VPN, offered but it doesn't currently?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4833",
+      "response": "Are there any capabilities or features that you wish your current VPN service provider, Norton, offered but it doesn\u2019t today?",
+      "assigned_themes": [
+        "Uncertainty About Needs"
+      ]
+    },
+    {
+      "participant_id": "P4835",
+      "response": "nothing",
+      "assigned_themes": [
+        "Satisfaction with Current Features"
+      ]
+    }
+  ]
+}

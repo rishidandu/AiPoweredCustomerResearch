@@ -1,19 +1,38 @@
 {
-  "headline": "Thematic Analysis of Consumer Motivations for Data Deletion",
-  "summary": "This analysis explores the motivations and satisfaction levels of consumers regarding data deletion services, highlighting key themes that emerged from participant responses.",
+  "headline": "Thematic Analysis of Consumer Privacy Market Insights",
+  "summary": "This analysis explores key themes from consumer responses regarding data deletion motivations and experiences, highlighting the importance of privacy, security concerns, and satisfaction with data deletion processes.",
   "themes": [
     {
-      "title": "Concerns Over Data Security",
-      "description": "Participants expressed strong motivations driven by fears of data breaches and identity theft.",
-      "participant_count": 10,
+      "title": "Privacy Concerns",
+      "description": "Participants express a strong desire to protect their personal information from unauthorized access and tracking.",
+      "participant_count": 15,
+      "quotes": [
+        {
+          "participant_id": "P4444",
+          "quote": "Because I don't want nobody knowing my identity."
+        },
+        {
+          "participant_id": "P4473",
+          "quote": "I want less information about me available to the public."
+        },
+        {
+          "participant_id": "P4805",
+          "quote": "Just rather my data not be out there and vulnerable."
+        }
+      ]
+    },
+    {
+      "title": "Security Motivations",
+      "description": "Many participants cite experiences with hacking, identity theft, or data breaches as primary motivators for pursuing data deletion.",
+      "participant_count": 15,
       "quotes": [
         {
           "participant_id": "P4435",
-          "quote": "ID theft tears ago"
+          "quote": "ID theft tears ago."
         },
         {
-          "participant_id": "P4449",
-          "quote": "Being hacked"
+          "participant_id": "P4460",
+          "quote": "The ability to secure and make sure my data is safe."
         },
         {
           "participant_id": "P4547",
@@ -22,79 +41,475 @@
       ]
     },
     {
-      "title": "Desire for Privacy Control",
-      "description": "Many participants highlighted the need to control their personal information and reduce their digital footprint.",
-      "participant_count": 10,
-      "quotes": [
-        {
-          "participant_id": "P4468",
-          "quote": "I don\u2019t want anymore information out there than necessary"
-        },
-        {
-          "participant_id": "P4473",
-          "quote": "I want less information about me available to the public"
-        },
-        {
-          "participant_id": "P4804",
-          "quote": "the privacy"
-        }
-      ]
-    },
-    {
-      "title": "Frustration with Data Deletion Processes",
-      "description": "Participants reported dissatisfaction with the complexity and effectiveness of data deletion services.",
-      "participant_count": 10,
+      "title": "Satisfaction with Data Deletion Processes",
+      "description": "Participants report varying levels of satisfaction with the data deletion processes, often expressing uncertainty about the effectiveness of their actions.",
+      "participant_count": 15,
       "quotes": [
         {
           "participant_id": "P4451",
           "quote": "No. It\u2019s cumbersome."
         },
         {
-          "participant_id": "P4535",
-          "quote": "Not too satisfied, I am not up to all the latest information on how best to do this."
+          "participant_id": "P4479",
+          "quote": "Well, not the best but it\u2019ll have to make do."
         },
         {
           "participant_id": "P4808",
-          "quote": "It could be a LOT simpler and more transparent"
+          "quote": "I hope that I've made it more difficult for anybody who wants it to get it."
         }
       ]
     },
     {
-      "title": "Mixed Satisfaction with Outcomes",
-      "description": "Participants expressed varied levels of satisfaction regarding the results of their data deletion efforts.",
-      "participant_count": 10,
+      "title": "Desire for Control",
+      "description": "Participants emphasize the need for control over their personal data and the importance of managing their digital footprint.",
+      "participant_count": 15,
       "quotes": [
         {
           "participant_id": "P4471",
-          "quote": "yes and no - not sure how 'deleted' it really is"
+          "quote": "I felt it was a good idea. You can't be too careful these days."
         },
         {
-          "participant_id": "P4728",
-          "quote": "Not really contented"
+          "participant_id": "P4524",
+          "quote": "Just don\u2019t keep history."
         },
         {
-          "participant_id": "P4812",
-          "quote": "it's hard to gauge - sometimes I live in a nebulous fear, not knowing if my efforts are enough"
+          "participant_id": "P4746",
+          "quote": "Just dont need all my data out there."
         }
       ]
     },
     {
-      "title": "Proactive Measures for Online Safety",
-      "description": "Participants indicated a proactive approach to managing their online presence and protecting their data.",
-      "participant_count": 10,
+      "title": "Frustration with Current Solutions",
+      "description": "Participants express frustration with the effectiveness and transparency of current data deletion services.",
+      "participant_count": 15,
       "quotes": [
         {
-          "participant_id": "P4480",
-          "quote": "I take off everything if I'm not using it just to protect us"
+          "participant_id": "P4450",
+          "quote": "Just ok still not totally secure."
         },
         {
-          "participant_id": "P4553",
-          "quote": "Googling myself. Information is available that I never made available to the general public."
+          "participant_id": "P4809",
+          "quote": "It could be a LOT simpler and more transparent."
         },
         {
-          "participant_id": "P4820",
-          "quote": "to be vigilant of all the important bank transactions"
+          "participant_id": "P4812",
+          "quote": "It's hard to gauge - sometimes I live in a nebulous fear."
         }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "participant_id": "P4434",
+      "response": "do not leave data all over the place",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4435",
+      "response": "ID theft tears ago",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4444",
+      "response": "Because I don't want nobody knowing my identity.",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4449",
+      "response": "Being hacked",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4450",
+      "response": "I locked my Facebook page",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4451",
+      "response": "No. It\u2019s cumbersome.",
+      "assigned_themes": [
+        "Satisfaction with Data Deletion Processes"
+      ]
+    },
+    {
+      "participant_id": "P4453",
+      "response": "I don\u2019t want my personal information to be used to open up potential lines of financial gain.",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4457",
+      "response": "I knew the sites I visited were being tracked and cookies put on my computer",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4459",
+      "response": "Too many ti.es you can get spam messages such as emails from certain things and it's so annoying.",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4460",
+      "response": "The ability to secure and make sure my data is safe",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4467",
+      "response": "Didn't trust the site",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4468",
+      "response": "I don\u2019t want anymore information out there than necessary",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4470",
+      "response": "When they shared my info with other sites without my knowledge or permission.",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4471",
+      "response": "I felt it was a good idea. You can't be too careful these days.",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4473",
+      "response": "I want less information about me available to the public",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4475",
+      "response": "Don\u2019t want random people having personal information",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4477",
+      "response": "I don't like my information to be available and I don't like being tracked",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4479",
+      "response": "The need to have less digital footprint",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4480",
+      "response": "i want to let of shows on on tv as far as netflix and stuff like that with data breaches and all kinds of stuff so i mean it's a it's a pretty scary world that we're living in and the best protection is keep the vpn in place so that secure my my granddaughter secure and the rest of my family is secure because i mean god forbid if anything should happened with and unsecured computer system",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4481",
+      "response": "I think it is a great step to be careful about our privacy and comfort.",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4483",
+      "response": "For more security that's all.",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4484",
+      "response": "Being hacked",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4510",
+      "response": "SOME OF THE EMAILS I HAVE RECEIVED, ADS ETC. SOME HAVE ALERTS ABOUT SAFE WEBSITE",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4514",
+      "response": "My credit card was used and I don't know who used it to purchase stuff online",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4520",
+      "response": "If it's a site I always use or if I'm just going there because I saw something",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4524",
+      "response": "Just don\u2019t keep history",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4528",
+      "response": "used an internet data cleansing service after emails stolen",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4531",
+      "response": "Hackers",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4535",
+      "response": "Websites that I no longer use having my information. Or I am doing things like blocking the tracking and refusing third party cookies.",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4543",
+      "response": "I want the least amount of my information out in the world, which includes not being on any social media sites.",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4547",
+      "response": "Fraud on my bank account.",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4549",
+      "response": "The things that lead me to make the decision to delete my personal data from websites/online databases are to have more privacy and fewer spam texts, emails, and/or calls.",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4550",
+      "response": "Make my social media private",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4553",
+      "response": "Googling myself. Information is available that I never made available to the general public. I have no idea how, when, or why it wound up on the net.",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4566",
+      "response": "My credit card was stolen but in my wallet The thieves used the number on my card but my card was in my wallet I had just gotten off the credit card site after paying my monthly bill then not 10 minutes later someone stole the number and used it to try to buy 500 dollars sneakers",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4711",
+      "response": "Data leaks from those websites.",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4724",
+      "response": "I want to make sure that sensitive information isn\u2019t saved for future use",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4728",
+      "response": "To be anonymous in my daily use of the Internet",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4732",
+      "response": "cybersecurity issues at other companies",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4746",
+      "response": "Just dont need all my data out there.",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4748",
+      "response": "for security purposes",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4749",
+      "response": "Knowing my data was breached",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4756",
+      "response": "Online identity monitoring",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4763",
+      "response": "I want to live a private life",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4775",
+      "response": "There are so many mentions now of data leaks with companies",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4804",
+      "response": "the privacy",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4805",
+      "response": "being able to do things without being watched",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4807",
+      "response": "A report on my credit that was false",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4808",
+      "response": "well it just seems that there's it you it's it's scary easy it is for people to get access to your data it's especially scary because companies there's literally es sorry another car is passing there's a little box on a lot of websites that you can check do not sell sell my data they're just selling your diet for five dollars you know that's we anybody can just pay them five dollars and have everything that company has on you it's it's scary so i started taking measures to make sure that that won't happen to me you know you can get your get your account hacked you could but that's like on the lower end you could have your high identity stolen you could get ddos swat it's really it's it's scary nowadays",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4809",
+      "response": "Doxxing concerns and spam contact",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4810",
+      "response": "To keep my ID secure.",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4812",
+      "response": "I have changed my passwords regularly and try to delete my caches in timely manners",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4813",
+      "response": "The primary reason made me pursue this was I just love looking at data. It really makes me feel all well rounded. It makes me feel at work.",
+      "assigned_themes": [
+        "Desire for Control"
+      ]
+    },
+    {
+      "participant_id": "P4814",
+      "response": "Bots making fake identities and using your profile picture and info",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4820",
+      "response": "to be vigilant of all the important bank transactions",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4825",
+      "response": "protects privacy from hackers on the internet to help you stay safe",
+      "assigned_themes": [
+        "Security Motivations"
+      ]
+    },
+    {
+      "participant_id": "P4832",
+      "response": "Too much spam",
+      "assigned_themes": [
+        "Frustration with Current Solutions"
+      ]
+    },
+    {
+      "participant_id": "P4840",
+      "response": "Just rather my data not be out there and vulnerable",
+      "assigned_themes": [
+        "Privacy Concerns"
+      ]
+    },
+    {
+      "participant_id": "P4843",
+      "response": "For more privacy, I dont like how easy it is for people to be able to look up my name and find information on me like, where I live, etc.",
+      "assigned_themes": [
+        "Privacy Concerns"
       ]
     }
   ]
