@@ -1,0 +1,608 @@
+{
+  "vpn_selection": {
+    "headline": "Key Features Influencing VPN Selection Among Consumers",
+    "summary": "Consumers prioritize security, privacy, and performance when selecting VPN services, with a strong emphasis on cost-effectiveness.",
+    "themes": [
+      {
+        "title": "Security and Privacy Protection",
+        "description": "Participants emphasize the importance of features that ensure their online security and protect their personal information.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4435",
+            "quote": "No logs policy and multiple servers across multiple locations."
+          },
+          {
+            "participant_id": "P4450",
+            "quote": "Security."
+          },
+          {
+            "participant_id": "P4510",
+            "quote": "PRIVACY PROTECTION."
+          }
+        ]
+      },
+      {
+        "title": "Performance and Speed",
+        "description": "Many participants highlight the need for fast and reliable connections as a critical factor in their VPN choice.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4446",
+            "quote": "The speed of the internet, and security is the most fundamental aspect of the digital internet that we can access."
+          },
+          {
+            "participant_id": "P4748",
+            "quote": "How fast it works."
+          },
+          {
+            "participant_id": "P4801",
+            "quote": "Fast speeds and a reliable connection are the two most important features I look for when choosing a VPN."
+          }
+        ]
+      },
+      {
+        "title": "Cost and Value",
+        "description": "Participants express a strong desire for affordable VPN options that provide good value for the features offered.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4505",
+            "quote": "The price and the security benefits offered."
+          },
+          {
+            "participant_id": "P4725",
+            "quote": "Whether or not the VPN service also tracks my activity, price."
+          },
+          {
+            "participant_id": "P4845",
+            "quote": "cheap and affordable."
+          }
+        ]
+      },
+      {
+        "title": "Ease of Use and Accessibility",
+        "description": "Participants value user-friendly interfaces and the ability to easily access desired content through their VPN.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4735",
+            "quote": "The ease of using it and the ability to keep it secure."
+          },
+          {
+            "participant_id": "P4790",
+            "quote": "User-friendly interface and features."
+          },
+          {
+            "participant_id": "P4812",
+            "quote": "Geo unlocking, Free plan, protect data."
+          }
+        ]
+      },
+      {
+        "title": "Server Locations and Options",
+        "description": "The availability of multiple server locations is a significant factor for users wanting to access region-restricted content.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4458",
+            "quote": "Having it protect my information but at the same time letting me do everything I need to do without restraint."
+          },
+          {
+            "participant_id": "P4741",
+            "quote": "If I can browse other country's Netflix."
+          },
+          {
+            "participant_id": "P4804",
+            "quote": "How large the VPN's server network is and if it offers wide geographical coverage."
+          }
+        ]
+      }
+    ]
+  },
+  "unmet_needs_private_location": {
+    "headline": "Consumer Perspectives on Private VPN Server Locations: Appeal and Concerns",
+    "summary": "Participants expressed a mix of interest and skepticism regarding the feature of private server locations in VPN services, highlighting both security benefits and potential drawbacks.",
+    "themes": [
+      {
+        "title": "Enhanced Security and Privacy",
+        "description": "Many participants find the option to set up private server locations appealing due to the added security and privacy it offers.",
+        "participant_count": 15,
+        "quotes": [
+          {
+            "participant_id": "P4444",
+            "quote": "It's very important because I need to be safe."
+          },
+          {
+            "participant_id": "P4451",
+            "quote": "I like a private area protected from hackers."
+          },
+          {
+            "participant_id": "P4810",
+            "quote": "It protects my ID."
+          }
+        ]
+      },
+      {
+        "title": "Concerns About Accessibility and Usability",
+        "description": "Some participants expressed concerns about the complexity and usability of setting up private server locations, indicating a need for simplicity.",
+        "participant_count": 12,
+        "quotes": [
+          {
+            "participant_id": "P4446",
+            "quote": "Not sure. I don\u2019t know much about it. What are the benefits."
+          },
+          {
+            "participant_id": "P4711",
+            "quote": "It's slightly interesting, but seems to be too complex and like it would be a hassle to use."
+          },
+          {
+            "participant_id": "P4756",
+            "quote": "I fear for my identity being revealed."
+          }
+        ]
+      },
+      {
+        "title": "Potential Risks and Drawbacks",
+        "description": "Participants highlighted potential risks associated with using personal locations, such as exposure to hacking or doxxing.",
+        "participant_count": 10,
+        "quotes": [
+          {
+            "participant_id": "P4449",
+            "quote": "Open to more hackers."
+          },
+          {
+            "participant_id": "P4811",
+            "quote": "Drawbacks are the risk of doxxing and swatting."
+          },
+          {
+            "participant_id": "P4801",
+            "quote": "People could potentially track down someone."
+          }
+        ]
+      },
+      {
+        "title": "Convenience and Flexibility",
+        "description": "Several participants noted the convenience of accessing their VPN from personal locations, especially when traveling or working remotely.",
+        "participant_count": 14,
+        "quotes": [
+          {
+            "participant_id": "P4460",
+            "quote": "It\u2019s very appealing because it\u2019s effect and worth the cost."
+          },
+          {
+            "participant_id": "P4480",
+            "quote": "It allows you to be in the comfort of your own home while using your VPN."
+          },
+          {
+            "participant_id": "P4820",
+            "quote": "It is very appealing to me because If I don't have to worry about depending on a potential unreliable connection then I would most definitely prefer this option."
+          }
+        ]
+      },
+      {
+        "title": "Skepticism About Necessity",
+        "description": "Some participants questioned the necessity of private server locations, indicating that they may not find it essential for their VPN usage.",
+        "participant_count": 9,
+        "quotes": [
+          {
+            "participant_id": "P4455",
+            "quote": "I probably wouldn't use it because I only use my VPN when I need a secure connection."
+          },
+          {
+            "participant_id": "P4724",
+            "quote": "I don't really understand what the uses would be."
+          },
+          {
+            "participant_id": "P4748",
+            "quote": "I don't know if I would really use this feature."
+          }
+        ]
+      }
+    ]
+  },
+  "unmet_needs_always_avail": {
+    "headline": "Consumer VPN Users Express Limited Unmet Needs and Interest in Alternatives",
+    "summary": "Participants generally reported satisfaction with their current VPN services, but expressed curiosity about alternatives that guarantee reliability and accessibility.",
+    "themes": [
+      {
+        "title": "Satisfaction with Current VPN Services",
+        "description": "Many participants reported that their current VPN solutions meet their expectations for accessibility and reliability.",
+        "participant_count": 45,
+        "quotes": [
+          {
+            "participant_id": "P4434",
+            "quote": "No"
+          },
+          {
+            "participant_id": "P4444",
+            "quote": "It did helped me."
+          },
+          {
+            "participant_id": "P4451",
+            "quote": "None"
+          }
+        ]
+      },
+      {
+        "title": "Interest in Reliable Alternatives",
+        "description": "Participants expressed interest in alternative VPN services that guarantee consistent performance and accessibility.",
+        "participant_count": 38,
+        "quotes": [
+          {
+            "participant_id": "P4449",
+            "quote": "That would be good"
+          },
+          {
+            "participant_id": "P4450",
+            "quote": "I would love it"
+          },
+          {
+            "participant_id": "P4470",
+            "quote": "I might be inclined to trial it"
+          }
+        ]
+      },
+      {
+        "title": "Concerns About Accessibility and Reliability",
+        "description": "Some participants shared experiences where their current VPNs failed to provide expected accessibility or reliability.",
+        "participant_count": 25,
+        "quotes": [
+          {
+            "participant_id": "P4458",
+            "quote": "Sometimes the websites I'm using, like market research surveys, won't allow me to complete surveys if I'm on a VPN."
+          },
+          {
+            "participant_id": "P4471",
+            "quote": "I haven't had any issues or problems whatsoever."
+          },
+          {
+            "participant_id": "P4741",
+            "quote": "I meant to say no! Just websites that are still blocked with VPN."
+          }
+        ]
+      },
+      {
+        "title": "Price Sensitivity and Value Considerations",
+        "description": "Participants indicated that pricing would be a significant factor in considering a switch to a new VPN service.",
+        "participant_count": 30,
+        "quotes": [
+          {
+            "participant_id": "P4457",
+            "quote": "I would want to know what the price is"
+          },
+          {
+            "participant_id": "P4461",
+            "quote": "I would only be interested if they were bundled with my security service"
+          },
+          {
+            "participant_id": "P4531",
+            "quote": "That would be great if affordable"
+          }
+        ]
+      },
+      {
+        "title": "Desire for Enhanced Features",
+        "description": "Participants expressed a desire for VPN services that offer enhanced features, such as better speed and access to blocked sites.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4480",
+            "quote": "I would be curious to learn more about it"
+          },
+          {
+            "participant_id": "P4559",
+            "quote": "That would be nice but I'd have to review it."
+          },
+          {
+            "participant_id": "P4812",
+            "quote": "I would be very excited and interested about such an alternative service!"
+          }
+        ]
+      }
+    ]
+  },
+  "current_vpn_feedback": {
+    "headline": "Consumer VPN Feedback Reveals Satisfaction with Current Features",
+    "summary": "The analysis indicates that many participants are generally satisfied with their current VPN services, with few expressing specific feature requests.",
+    "themes": [
+      {
+        "title": "Satisfaction with Current Features",
+        "description": "Many participants feel their current VPN services meet their needs without requiring additional features.",
+        "participant_count": 45,
+        "quotes": [
+          {
+            "participant_id": "P4434",
+            "quote": "No"
+          },
+          {
+            "participant_id": "P4444",
+            "quote": "No, not at all"
+          },
+          {
+            "participant_id": "P4457",
+            "quote": "no there isn't"
+          }
+        ]
+      },
+      {
+        "title": "Desire for Improved Speed and Performance",
+        "description": "Some participants expressed a desire for faster speeds and better performance from their VPN services.",
+        "participant_count": 10,
+        "quotes": [
+          {
+            "participant_id": "P4450",
+            "quote": "Speeding up server time better"
+          },
+          {
+            "participant_id": "P4479",
+            "quote": "Multiple locations with very fast connections. I need options that are equally viable"
+          },
+          {
+            "participant_id": "P4804",
+            "quote": "faster service"
+          }
+        ]
+      },
+      {
+        "title": "Interest in Additional Security Features",
+        "description": "A few participants mentioned wanting enhanced security features to protect against hacking and other threats.",
+        "participant_count": 5,
+        "quotes": [
+          {
+            "participant_id": "P4725",
+            "quote": "it would be nice to have some way to know if my connection or security has been compromised"
+          },
+          {
+            "participant_id": "P4775",
+            "quote": "Just added security of no hacking since that\u2019s becoming part of the 'norm' nowadays"
+          },
+          {
+            "participant_id": "P4825",
+            "quote": "protects privacy from hackers on the internet to help you stay safe"
+          }
+        ]
+      },
+      {
+        "title": "Requests for More Server Locations",
+        "description": "Some participants expressed a desire for more server locations to enhance their VPN experience.",
+        "participant_count": 6,
+        "quotes": [
+          {
+            "participant_id": "P4453",
+            "quote": "I wish it offered more options in terms of countries I could connect to."
+          },
+          {
+            "participant_id": "P4808",
+            "quote": "like i mentioned earlier it is very lacking in servers in other countries"
+          },
+          {
+            "participant_id": "P4550",
+            "quote": "More bandwidth, more server locations"
+          }
+        ]
+      },
+      {
+        "title": "Uncertainty About Additional Needs",
+        "description": "Several participants were unsure about what additional features they might want, indicating a general satisfaction with their current services.",
+        "participant_count": 20,
+        "quotes": [
+          {
+            "participant_id": "P4446",
+            "quote": "Not sure"
+          },
+          {
+            "participant_id": "P4510",
+            "quote": "CAN'T THINK OF ANY."
+          },
+          {
+            "participant_id": "P4829",
+            "quote": "not necessarily no"
+          }
+        ]
+      }
+    ]
+  },
+  "remove_data_steps_probe_yes": {
+    "headline": "Consumer Motivations and Satisfaction in Data Deletion Efforts",
+    "summary": "Participants expressed a range of motivations for pursuing data deletion, highlighting concerns over privacy, security, and satisfaction with the processes involved.",
+    "themes": [
+      {
+        "title": "Concerns Over Privacy and Data Security",
+        "description": "Many participants were motivated to delete their data due to concerns about privacy and the potential misuse of their personal information.",
+        "participant_count": 15,
+        "quotes": [
+          {
+            "participant_id": "P4434",
+            "quote": "do not leave data all over the place"
+          },
+          {
+            "participant_id": "P4444",
+            "quote": "Because I don't want nobody knowing my identity."
+          },
+          {
+            "participant_id": "P4470",
+            "quote": "When they shared my info with other sites without my knowledge or permission."
+          }
+        ]
+      },
+      {
+        "title": "Experiences with Data Breaches and Identity Theft",
+        "description": "Several participants cited personal experiences with data breaches or identity theft as key motivators for seeking data deletion.",
+        "participant_count": 12,
+        "quotes": [
+          {
+            "participant_id": "P4435",
+            "quote": "ID theft tears ago"
+          },
+          {
+            "participant_id": "P4449",
+            "quote": "Being hacked"
+          },
+          {
+            "participant_id": "P4547",
+            "quote": "Fraud on my bank account."
+          }
+        ]
+      },
+      {
+        "title": "Mixed Satisfaction with Data Deletion Processes",
+        "description": "Participants reported varying levels of satisfaction with the data deletion processes, often expressing uncertainty about the effectiveness of their actions.",
+        "participant_count": 14,
+        "quotes": [
+          {
+            "participant_id": "P4451",
+            "quote": "No. It\u2019s cumbersome."
+          },
+          {
+            "participant_id": "P4473",
+            "quote": "yes and no - not sure how 'deleted' it really is"
+          },
+          {
+            "participant_id": "P4728",
+            "quote": "Not really contented"
+          }
+        ]
+      },
+      {
+        "title": "Desire for Control Over Personal Information",
+        "description": "A strong theme emerged around the desire for individuals to have control over their personal information and digital footprint.",
+        "participant_count": 13,
+        "quotes": [
+          {
+            "participant_id": "P4468",
+            "quote": "I don\u2019t want anymore information out there than necessary"
+          },
+          {
+            "participant_id": "P4479",
+            "quote": "The need to have less digital footprint"
+          },
+          {
+            "participant_id": "P4553",
+            "quote": "I want the least amount of my information out in the world"
+          }
+        ]
+      },
+      {
+        "title": "Frustration with Online Tracking and Spam",
+        "description": "Participants expressed frustration with online tracking practices and the influx of spam, which motivated their data deletion efforts.",
+        "participant_count": 11,
+        "quotes": [
+          {
+            "participant_id": "P4444",
+            "quote": "I felt relieved doing that."
+          },
+          {
+            "participant_id": "P4460",
+            "quote": "Too many ti.es you can get spam messages such as emails from certain things and it's so annoying."
+          },
+          {
+            "participant_id": "P4840",
+            "quote": "Just rather my data not be out there and vulnerable"
+          }
+        ]
+      }
+    ]
+  },
+  "remove_data_steps_probe_no": {
+    "headline": "Consumer Interest in Removing Personal Information Varies Significantly",
+    "summary": "The analysis reveals a mixed interest among participants regarding the removal of personal information from online databases, influenced by concerns about cost, convenience, and participation in online communities.",
+    "themes": [
+      {
+        "title": "Interest in Removal Services",
+        "description": "A significant number of participants express interest in services that help remove personal information from online databases.",
+        "participant_count": 15,
+        "quotes": [
+          {
+            "participant_id": "P4485",
+            "quote": "Yes"
+          },
+          {
+            "participant_id": "P4736",
+            "quote": "yes"
+          },
+          {
+            "participant_id": "P4811",
+            "quote": "Yes."
+          }
+        ]
+      },
+      {
+        "title": "Concerns About Cost and Convenience",
+        "description": "Many participants indicate that their interest in removal services is contingent upon understanding the costs and the steps involved.",
+        "participant_count": 10,
+        "quotes": [
+          {
+            "participant_id": "P4505",
+            "quote": "it depends on the costs and convenience"
+          },
+          {
+            "participant_id": "P4559",
+            "quote": "It would depend on the cost and the steps required to remove my personal information."
+          },
+          {
+            "participant_id": "P4816",
+            "quote": "This would interest me, I just don't know how to go about it"
+          }
+        ]
+      },
+      {
+        "title": "Skepticism and Lack of Interest",
+        "description": "A notable portion of participants express skepticism or outright lack of interest in removing their personal information.",
+        "participant_count": 12,
+        "quotes": [
+          {
+            "participant_id": "P4446",
+            "quote": "No"
+          },
+          {
+            "participant_id": "P4760",
+            "quote": "no I don't wish to take"
+          },
+          {
+            "participant_id": "P4790",
+            "quote": "never"
+          }
+        ]
+      },
+      {
+        "title": "Conditional Interest Based on Future Considerations",
+        "description": "Some participants show conditional interest, indicating they might consider removal in the future depending on circumstances.",
+        "participant_count": 8,
+        "quotes": [
+          {
+            "participant_id": "P4466",
+            "quote": "Yes, I would be interested. But, I participate in many online communities..."
+          },
+          {
+            "participant_id": "P4573",
+            "quote": "I would be interested"
+          },
+          {
+            "participant_id": "P4824",
+            "quote": "Yes I would"
+          }
+        ]
+      },
+      {
+        "title": "Uncertainty About the Process",
+        "description": "Several participants express uncertainty about how to go about removing their personal information, which affects their interest.",
+        "participant_count": 9,
+        "quotes": [
+          {
+            "participant_id": "P4519",
+            "quote": "Maybe but I don't know how to do it and not sure how much it would cost."
+          },
+          {
+            "participant_id": "P4561",
+            "quote": "I would need to know more about it."
+          },
+          {
+            "participant_id": "P4822",
+            "quote": "Yes if it\u2019s not necessary"
+          }
+        ]
+      }
+    ]
+  }
+}

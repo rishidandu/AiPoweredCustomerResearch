@@ -1,0 +1,101 @@
+{
+  "headline": "Consumer VPN Users Express Limited Unmet Needs and Interest in Alternatives",
+  "summary": "Participants generally reported satisfaction with their current VPN services, but expressed curiosity about alternatives that guarantee reliability and accessibility.",
+  "themes": [
+    {
+      "title": "Satisfaction with Current VPN Services",
+      "description": "Many participants reported that their current VPN solutions meet their expectations for accessibility and reliability.",
+      "participant_count": 45,
+      "quotes": [
+        {
+          "participant_id": "P4434",
+          "quote": "No"
+        },
+        {
+          "participant_id": "P4444",
+          "quote": "It did helped me."
+        },
+        {
+          "participant_id": "P4451",
+          "quote": "None"
+        }
+      ]
+    },
+    {
+      "title": "Interest in Reliable Alternatives",
+      "description": "Participants expressed interest in alternative VPN services that guarantee consistent performance and accessibility.",
+      "participant_count": 38,
+      "quotes": [
+        {
+          "participant_id": "P4449",
+          "quote": "That would be good"
+        },
+        {
+          "participant_id": "P4450",
+          "quote": "I would love it"
+        },
+        {
+          "participant_id": "P4470",
+          "quote": "I might be inclined to trial it"
+        }
+      ]
+    },
+    {
+      "title": "Concerns About Accessibility and Reliability",
+      "description": "Some participants shared experiences where their current VPNs failed to provide expected accessibility or reliability.",
+      "participant_count": 25,
+      "quotes": [
+        {
+          "participant_id": "P4458",
+          "quote": "Sometimes the websites I'm using, like market research surveys, won't allow me to complete surveys if I'm on a VPN."
+        },
+        {
+          "participant_id": "P4471",
+          "quote": "I haven't had any issues or problems whatsoever."
+        },
+        {
+          "participant_id": "P4741",
+          "quote": "I meant to say no! Just websites that are still blocked with VPN."
+        }
+      ]
+    },
+    {
+      "title": "Price Sensitivity and Value Considerations",
+      "description": "Participants indicated that pricing would be a significant factor in considering a switch to a new VPN service.",
+      "participant_count": 30,
+      "quotes": [
+        {
+          "participant_id": "P4457",
+          "quote": "I would want to know what the price is"
+        },
+        {
+          "participant_id": "P4461",
+          "quote": "I would only be interested if they were bundled with my security service"
+        },
+        {
+          "participant_id": "P4531",
+          "quote": "That would be great if affordable"
+        }
+      ]
+    },
+    {
+      "title": "Desire for Enhanced Features",
+      "description": "Participants expressed a desire for VPN services that offer enhanced features, such as better speed and access to blocked sites.",
+      "participant_count": 20,
+      "quotes": [
+        {
+          "participant_id": "P4480",
+          "quote": "I would be curious to learn more about it"
+        },
+        {
+          "participant_id": "P4559",
+          "quote": "That would be nice but I'd have to review it."
+        },
+        {
+          "participant_id": "P4812",
+          "quote": "I would be very excited and interested about such an alternative service!"
+        }
+      ]
+    }
+  ]
+}

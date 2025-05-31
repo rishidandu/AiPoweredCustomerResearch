@@ -1,0 +1,101 @@
+{
+  "headline": "Consumer Perspectives on Private VPN Server Locations: Appeal and Concerns",
+  "summary": "Participants expressed a mix of interest and skepticism regarding the feature of private server locations in VPN services, highlighting both security benefits and potential drawbacks.",
+  "themes": [
+    {
+      "title": "Enhanced Security and Privacy",
+      "description": "Many participants find the option to set up private server locations appealing due to the added security and privacy it offers.",
+      "participant_count": 15,
+      "quotes": [
+        {
+          "participant_id": "P4444",
+          "quote": "It's very important because I need to be safe."
+        },
+        {
+          "participant_id": "P4451",
+          "quote": "I like a private area protected from hackers."
+        },
+        {
+          "participant_id": "P4810",
+          "quote": "It protects my ID."
+        }
+      ]
+    },
+    {
+      "title": "Concerns About Accessibility and Usability",
+      "description": "Some participants expressed concerns about the complexity and usability of setting up private server locations, indicating a need for simplicity.",
+      "participant_count": 12,
+      "quotes": [
+        {
+          "participant_id": "P4446",
+          "quote": "Not sure. I don\u2019t know much about it. What are the benefits."
+        },
+        {
+          "participant_id": "P4711",
+          "quote": "It's slightly interesting, but seems to be too complex and like it would be a hassle to use."
+        },
+        {
+          "participant_id": "P4756",
+          "quote": "I fear for my identity being revealed."
+        }
+      ]
+    },
+    {
+      "title": "Potential Risks and Drawbacks",
+      "description": "Participants highlighted potential risks associated with using personal locations, such as exposure to hacking or doxxing.",
+      "participant_count": 10,
+      "quotes": [
+        {
+          "participant_id": "P4449",
+          "quote": "Open to more hackers."
+        },
+        {
+          "participant_id": "P4811",
+          "quote": "Drawbacks are the risk of doxxing and swatting."
+        },
+        {
+          "participant_id": "P4801",
+          "quote": "People could potentially track down someone."
+        }
+      ]
+    },
+    {
+      "title": "Convenience and Flexibility",
+      "description": "Several participants noted the convenience of accessing their VPN from personal locations, especially when traveling or working remotely.",
+      "participant_count": 14,
+      "quotes": [
+        {
+          "participant_id": "P4460",
+          "quote": "It\u2019s very appealing because it\u2019s effect and worth the cost."
+        },
+        {
+          "participant_id": "P4480",
+          "quote": "It allows you to be in the comfort of your own home while using your VPN."
+        },
+        {
+          "participant_id": "P4820",
+          "quote": "It is very appealing to me because If I don't have to worry about depending on a potential unreliable connection then I would most definitely prefer this option."
+        }
+      ]
+    },
+    {
+      "title": "Skepticism About Necessity",
+      "description": "Some participants questioned the necessity of private server locations, indicating that they may not find it essential for their VPN usage.",
+      "participant_count": 9,
+      "quotes": [
+        {
+          "participant_id": "P4455",
+          "quote": "I probably wouldn't use it because I only use my VPN when I need a secure connection."
+        },
+        {
+          "participant_id": "P4724",
+          "quote": "I don't really understand what the uses would be."
+        },
+        {
+          "participant_id": "P4748",
+          "quote": "I don't know if I would really use this feature."
+        }
+      ]
+    }
+  ]
+}

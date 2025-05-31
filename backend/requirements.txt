@@ -1,0 +1,6 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+openai>=1.0.0
+python-dotenv  # Optional, if you want to load OpenAI keys from .env
+pandas
+openpyxl  # for reading `.xlsx` files
