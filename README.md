@@ -71,5 +71,6 @@ python main.py usercue_interview_case_study_6Qs.xlsx --background project_backgr
 
 ---
 
-## Support
+## Look at APPROACH_AND_DESIGN.md for a deepdive
+
 If you have questions or need help, open an issue or contact the project maintainer. 
