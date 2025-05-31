@@ -58,8 +58,8 @@ This document explains the rationale, design choices, and tradeoffs made in buil
 - **Production:** Add rate limiting, batching, and error retries for large-scale use.
 
 ### 3. **Exhaustiveness vs. Clarity**
-- **Current:** Only top quotes per theme are classified for clarity and reviewability.
-- **Alternative:** For full auditability, add an option to classify every response.
+- **Current:** For full auditability, add an option to classify every response.
+- **Alternative:** Only top quotes per theme are classified for clarity and reviewability.
 
 ### 4. **Frontend Simplicity**
 - **Current:** Streamlit is fast to build and easy for users, but not as customizable as a full web app.
