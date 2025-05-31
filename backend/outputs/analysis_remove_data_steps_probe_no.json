@@ -1,100 +1,404 @@
 {
-  "headline": "The Consumer Privacy Market: Insights on Data Removal Interest",
-  "summary": "This thematic analysis explores consumer attitudes towards removing personal information from online databases, highlighting varying levels of interest and concerns regarding privacy solutions.",
+  "headline": "Thematic Analysis of Consumer Interest in Data Removal Services",
+  "summary": "This analysis explores consumer attitudes towards removing personal information from online databases, highlighting varying levels of interest, concerns about participation in online communities, and considerations of cost and convenience.",
   "themes": [
     {
       "title": "Interest in Data Removal Services",
-      "description": "A significant number of participants express interest in utilizing services to remove their personal information from online databases.",
-      "participant_count": 10,
+      "description": "Participants express varying degrees of interest in utilizing services to remove personal information from online databases.",
+      "participant_count": 15,
       "quotes": [
         {
-          "participant_id": "4466",
-          "quote": "Yes, I would be interested. But, I participate in many online communities and survey sites, so I'm concerned removing this information might affect that participation."
+          "participant_id": "P4485",
+          "quote": "Yes"
         },
         {
-          "participant_id": "4485",
+          "participant_id": "P4736",
+          "quote": "yes"
+        },
+        {
+          "participant_id": "P4811",
           "quote": "Yes."
-        },
-        {
-          "participant_id": "4735",
-          "quote": "Yes, it will be beneficial."
         }
       ]
     },
     {
-      "title": "Concerns About Cost and Convenience",
-      "description": "Participants frequently mention the importance of cost and ease of use when considering data removal services.",
-      "participant_count": 6,
+      "title": "Concerns About Participation",
+      "description": "Some participants worry that removing their personal information may impact their involvement in online communities or activities.",
+      "participant_count": 2,
       "quotes": [
         {
-          "participant_id": "4505",
-          "quote": "It depends on the costs and convenience."
+          "participant_id": "P4466",
+          "quote": "I'm concerned removing this information might affect that participation."
         },
         {
-          "participant_id": "4559",
+          "participant_id": "P4519",
+          "quote": "Maybe but I don't know how to do it and not sure how much it would cost."
+        }
+      ]
+    },
+    {
+      "title": "Cost and Convenience Considerations",
+      "description": "Participants frequently mention the importance of cost and ease of use when considering data removal services.",
+      "participant_count": 5,
+      "quotes": [
+        {
+          "participant_id": "P4491",
+          "quote": "Possibly depending if it costs more"
+        },
+        {
+          "participant_id": "P4559",
           "quote": "It would depend on the cost and the steps required to remove my personal information."
         },
         {
-          "participant_id": "4816",
-          "quote": "This would interest me, I just don't know how to go about it."
+          "participant_id": "P4801",
+          "quote": "not interested"
         }
       ]
     },
     {
-      "title": "Uncertainty and Lack of Knowledge",
-      "description": "Many participants express uncertainty about the process of data removal and lack knowledge on how to proceed.",
-      "participant_count": 5,
+      "title": "Lack of Interest or Knowledge",
+      "description": "A significant number of participants express disinterest or lack of knowledge regarding data removal services.",
+      "participant_count": 10,
       "quotes": [
         {
-          "participant_id": "4519",
-          "quote": "Maybe but I don't know how to do it and not sure how much it would cost."
+          "participant_id": "P4446",
+          "quote": "No"
         },
         {
-          "participant_id": "4561",
-          "quote": "I would need to know more about it."
+          "participant_id": "P4742",
+          "quote": "no"
         },
         {
-          "participant_id": "4822",
-          "quote": "Yes if it\u2019s not necessary."
+          "participant_id": "P4846",
+          "quote": "no interested"
         }
+      ]
+    }
+  ],
+  "classifications": [
+    {
+      "participant_id": "P4446",
+      "response": "No",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
       ]
     },
     {
-      "title": "Skepticism and Disinterest",
-      "description": "A notable portion of participants show skepticism or outright disinterest in removing their personal information.",
-      "participant_count": 7,
-      "quotes": [
-        {
-          "participant_id": "4446",
-          "quote": "No."
-        },
-        {
-          "participant_id": "4490",
-          "quote": "no.. I would have to give out information I am not comfortable doing."
-        },
-        {
-          "participant_id": "4790",
-          "quote": "never."
-        }
+      "participant_id": "P4458",
+      "response": "Maybe",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
       ]
     },
     {
-      "title": "Conditional Interest",
-      "description": "Some participants indicate a conditional interest in data removal, often tied to specific factors like cost or necessity.",
-      "participant_count": 5,
-      "quotes": [
-        {
-          "participant_id": "4491",
-          "quote": "Possibly depending if it costs more."
-        },
-        {
-          "participant_id": "4741",
-          "quote": "I'd be open to it."
-        },
-        {
-          "participant_id": "4826",
-          "quote": "I would consider it."
-        }
+      "participant_id": "P4461",
+      "response": "I am not interested",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4466",
+      "response": "Yes, I would be interested. But, I participate in many online communities and survey sites, so I'm concerned removing this information might affect that participation.",
+      "assigned_themes": [
+        "Interest in Data Removal Services",
+        "Concerns About Participation"
+      ]
+    },
+    {
+      "participant_id": "P4485",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4489",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4490",
+      "response": "no.. I would have to give out information I am not comfortable doing",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4491",
+      "response": "Possibly depending if it costs more",
+      "assigned_themes": [
+        "Cost and Convenience Considerations"
+      ]
+    },
+    {
+      "participant_id": "P4496",
+      "response": "Maybe",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4505",
+      "response": "it depends on the costs and convenience",
+      "assigned_themes": [
+        "Cost and Convenience Considerations"
+      ]
+    },
+    {
+      "participant_id": "P4513",
+      "response": "Absolutely neither",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4516",
+      "response": "I will certainly consider this because because people hacking information online is common place",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4519",
+      "response": "Maybe but I don't know how to do it and not sure how much it would cost.",
+      "assigned_themes": [
+        "Concerns About Participation",
+        "Cost and Convenience Considerations"
+      ]
+    },
+    {
+      "participant_id": "P4525",
+      "response": "N/A",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4532",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4559",
+      "response": "It would depend on the cost and the steps required to remove my personal information.",
+      "assigned_themes": [
+        "Cost and Convenience Considerations"
+      ]
+    },
+    {
+      "participant_id": "P4561",
+      "response": "I would need to know more about it.",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4570",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4573",
+      "response": "I would be interested",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4709",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4725",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4735",
+      "response": "Yes, it will be beneficial.",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4736",
+      "response": "yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4739",
+      "response": "Yes I would",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4741",
+      "response": "I'd be open to it",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4742",
+      "response": "no",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4750",
+      "response": "Not at the moment",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4751",
+      "response": "Yes",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4754",
+      "response": "no",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4760",
+      "response": "no I don't wish to take",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4765",
+      "response": "not interested",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4781",
+      "response": "lack of interest",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4790",
+      "response": "never",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4801",
+      "response": "not interested",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4811",
+      "response": "Yes.",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4816",
+      "response": "This would interest me, I just don't know how to go about it",
+      "assigned_themes": [
+        "Interest in Data Removal Services",
+        "Concerns About Participation"
+      ]
+    },
+    {
+      "participant_id": "P4818",
+      "response": "no",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4822",
+      "response": "Yes if it\u2019s not necessary",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4824",
+      "response": "Yes I would",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4826",
+      "response": "I would consider it.",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4829",
+      "response": "yes i would",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4830",
+      "response": "Yes I would be interesting",
+      "assigned_themes": [
+        "Interest in Data Removal Services"
+      ]
+    },
+    {
+      "participant_id": "P4833",
+      "response": "no",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4835",
+      "response": "not",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4845",
+      "response": "No",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
+      ]
+    },
+    {
+      "participant_id": "P4846",
+      "response": "no interested",
+      "assigned_themes": [
+        "Lack of Interest or Knowledge"
       ]
     }
   ]
