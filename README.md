@@ -14,7 +14,6 @@ backend/
   outputs/               # All analysis outputs (JSON, Excel, etc.)
   requirements.txt       # Python dependencies
 ```
-
 ---
 
 ## Setup
